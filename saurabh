@@ -1,0 +1,4 @@
+A=input("Enter the number")
+B=input("Enter the number")
+result=A+B;
+print("result")
